@@ -77,7 +77,4 @@ document.getElementById("search-form").addEventListener("submit", function(event
 
     getImageOfTheDay(selectedDate);
 });
-
-
-// Display the image of the current date when the page loads
 getCurrentImageOfTheDay();
